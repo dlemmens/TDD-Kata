@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TDD kata no talking.iml" filepath="$PROJECT_DIR$/.idea/modules/TDD kata no talking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TDD_kata_no_talking.iml" filepath="$PROJECT_DIR$/.idea/modules/TDD_kata_no_talking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TDD_kata_no_talking_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TDD_kata_no_talking_main.iml" group="TDD_kata_no_talking" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TDD_kata_no_talking_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TDD_kata_no_talking_test.iml" group="TDD_kata_no_talking" />
+    </modules>
+  </component>
+</project>
